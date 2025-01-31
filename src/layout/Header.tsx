@@ -1,7 +1,6 @@
 import Logo from "@/Images/logo.png";
 import Image from "next/image";
 import Link from "next/link";
-import "@/styles/header.css";
 
 export default function Header() {
   return (
